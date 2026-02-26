@@ -1,49 +1,24 @@
-# Hola 👋, soy Fernando 
+# 💫 About Me:
+-🔭 Actualmente trabajando en **[Proyectos de la carrera]**<br>- 🌱 Actualmente aprendiendo **[Pharo(smalltalk) | Docker | Odoo]**<br>- 👯 Buscando colaborar en **[Cualquier proyecto que me pueda aportar experiencia y conocimiento]**<br>- 💬 Pregúntame sobre **[Tus temas de mayor dominio, ej. React, JavaScript, Diseño UI/UX]**<br>- 📫 Cómo contactarme: **[fernando.garcia24@alu.uclm.es]**<br>- ⚡ Dato curioso: **[En mis ratos libres me dedico a jugar videojugos y a hacer ejercicio]**
 
-### [Desarrollador Full Stack | Apasionado por la Inteligencia Artificial]
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante de ingeniería informática radicado en España. Me apasiona crear experiencias web accesibles / automatizar procesos / resolver problemas complejos con código.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Completar@luego) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernando.garcia24@alu.uclm.es) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fernan196&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fernan196&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernan196&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 👨‍💻 Sobre mí
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fernan196&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 Actualmente trabajando en **[Proyectos de la carrera]**
-- 🌱 Actualmente aprendiendo **[Pharo(smalltalk) | Docker | Odoo]**
-- 👯 Buscando colaborar en **[Cualquier proyecto que me pueda aportar experiencia y conocimiento]**
-- 💬 Pregúntame sobre **[Tus temas de mayor dominio, ej. React, JavaScript, Diseño UI/UX]**
-- 📫 Cómo contactarme: **[fernando.garcia24@alu.uclm.es]**
-- ⚡ Dato curioso: **[En mis ratos libres me dedico a jugar videojugos y a hacer ejercicio]**
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-**Lenguajes:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[AÑADE MÁS AQUÍ]
-
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-[AÑADE MÁS AQUÍ]
-
-**Backend & Bases de Datos:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-[AÑADE MÁS AQUÍ]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Fernan196&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fernan196&show_icons=true&theme=radical" alt="Estadísticas de Fernan196" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernan196&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
-
----
-
-### 🤝 Conecta conmigo
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
